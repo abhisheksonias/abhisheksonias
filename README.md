@@ -36,11 +36,7 @@
 
 <p align="left">Hello World!!<br>Printing 'Hello World' is like the warm-up before a coding marathon: simple, yet exhilarating!</p>
 
-###
 
-<img src="https://raw.githubusercontent.com/abhisheksonias/abhisheksonias/output/snake.svg" alt="Snake animation" />
-
-###
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
@@ -53,3 +49,9 @@
 ###
 # Support Me
 <a href="https://www.buymeacoffee.com/abhisheksoni12" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+###
+
+<img src="https://raw.githubusercontent.com/abhisheksonias/abhisheksonias/output/snake.svg" alt="Snake animation" />
+
+###
