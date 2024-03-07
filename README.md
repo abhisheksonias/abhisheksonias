@@ -41,18 +41,14 @@
 <img src="https://raw.githubusercontent.com/abhisheksonias/abhisheksonias/output/snake.svg" alt="Snake animation" />
 
 ###
+## 🙋‍♀️ Let's Connect
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/abhishek-soni-03a653227/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/abhisheksoni_12?igsh=bWd6bGIxMXc3MXdz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.behance.net/abhisheksoni71" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  </a>
-</div>
+<p align="center">
+	<a href="https://www.behance.net/abhisheksoni71" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/behance.png" alt="behance"/></a>
+	<a href="https://www.linkedin.com/in/abhishek-soni-03a653227/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/abhisheksoni_12?igsh=bWd6bGIxMXc3MXdz" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:abhisheksoniofficial12@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
 
 ###
 # Support Me
