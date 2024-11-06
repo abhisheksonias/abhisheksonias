@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">"Hey there, I'm Abhishek Soni, your friendly neighborhood tech wizard from the mystical land of Udaipur, Rajasthan. Currently, I'm on a mission as a second-year student, mastering the art of Computer Engineering with a pinch of Artificial Intelligence at Marwadi University in Rajkot.<br><br>When I'm not charming lines of code or dabbling in the blockchain universe, you can catch me soaking up the vibes of Udaipur's serene lakes or munching on some spicy Rajasthani treats.<br><br>So, hop on board and let's embark on an epic quest to revolutionize the digital landscape. Together, we'll turn tech dreams into reality, all while sharing a laugh or two along the way! 🚀😄"</p>
+<p align="left">"Hey there, I'm Abhishek Soni, your friendly neighborhood tech wizard from the mystical land of Udaipur, Rajasthan. Currently, I'm on a mission as a 3rd year student, mastering the art of Computer Engineering with a pinch of Artificial Intelligence at Marwadi University in Rajkot.<br><br>When I'm not charming lines of code or dabbling in the blockchain universe, you can catch me soaking up the vibes of Udaipur's serene lakes or munching on some spicy Rajasthani treats.<br><br>So, hop on board and let's embark on an epic quest to revolutionize the digital landscape. Together, we'll turn tech dreams into reality, all while sharing a laugh or two along the way! 🚀😄"</p>
 
 ###
 
